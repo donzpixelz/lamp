@@ -7,4 +7,4 @@ To use this project you need only to pull it to your local machine and change th
 ks.cfg located in the .packer/http folder
 lamp.json located in the .packer folder.
 
-You also need to update the ip in the Vagrantfile.
+You may also choose to update the ip in the Vagrantfile.
