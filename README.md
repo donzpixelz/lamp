@@ -11,10 +11,10 @@ You may also choose to update the ip in the Vagrantfile.
 
 You will also need packer and vagrant installed on your host machine along with the following vagrant plugins:
 
-  vagrant-auto_network
-  vagrant-digitalocean
-  vagrant-hostsupdater
-  vagrant-share
-  vagrant-triggers
-  vagrant-vbguest
+    vagrant-auto_network
+    vagrant-digitalocean
+    vagrant-hostsupdater
+    vagrant-share
+    vagrant-triggers
+    vagrant-vbguest
   
